@@ -1,0 +1,11 @@
+{
+  "title": "First courses sample",
+  "description": "katacoda course test",
+  "courses": [
+    {
+      "course_id": "test_scenarios",
+      "title": "Scenario Begin",
+      "description": "Scenario tutorial"
+    }
+  ]
+}
